@@ -13,7 +13,22 @@ A fun terminal-based Hangman game written in Python. Guess letters to reveal the
 - Clears screen each round (cross-platform)
 
 ---
+## 🚀 How to Run
 
+### 🔧 Prerequisites
+- Python 3.x installed on your system
+
+---
+
+### 📦Clone the Repository (Recommended)
+If you have Git installed, run:
+
+```bash
+git clone https://github.com/Debit-git/hangman-game.git
+cd hangman-game
+python main.py
+
+>>>>>>> c55f801 (update README)
 ## 👨‍💻 Author
 
 - Debit Bhattarai
