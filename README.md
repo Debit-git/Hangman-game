@@ -28,7 +28,7 @@ git clone https://github.com/Debit-git/hangman-game.git
 cd hangman-game
 python main.py
 
->>>>>>> c55f801 (update README)
+
 ## 👨‍💻 Author
 
 - Debit Bhattarai
